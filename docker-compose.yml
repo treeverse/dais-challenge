@@ -5,8 +5,8 @@ services:
     image: minio/minio
     container_name: lakefs-dais-minio
     ports:
-      - "9000:9000"
-      - "9001:9001"
+      - "9112:9000"
+      - "9211:9001"
     entrypoint: ["minio", "server", "/data", "--console-address", ":9001"]
 
 
@@ -23,7 +23,7 @@ services:
     image: treeverse/lakefs:0.66.0
     container_name: lakefs-dais-lakefs
     ports:
-      - "8000:8000"
+      - "8010:8000"
     depends_on:
       - postgres
       - minio
@@ -75,8 +75,8 @@ services:
       - ./jupyter/hive-site.xml:/usr/local/spark/conf/hive-site.xml
       - ./jupyter/init.ipynb:/home/jovyan/⭐️ START YOUR LAKEFS DATA + AI SUMMIT 2022 CHALLENGE HERE ⭐️.ipynb
     ports:
-      - 8888:8888
-      - 4040:4040
+      - 8898:8888
+      - 4050:4040
 
 networks:
   default:

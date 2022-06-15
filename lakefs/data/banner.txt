@@ -24,9 +24,9 @@
     ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝        ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝
     
     
-        ✨🕰  To get started, check out the notebook at http://localhost:8888/ 🕰✨
+        ✨🕰  To get started, check out the notebook at http://localhost:8898/ 🕰✨
 
-        to access lakeFS:   http://localhost:8000/
+        to access lakeFS:   http://localhost:8010/
         Access Key ID:      AKIAIOSFODNN7EXAMPLE
         Secret Access Key:  wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 
