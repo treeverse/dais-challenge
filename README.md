@@ -25,4 +25,7 @@ Followed by further instructions 🔍
 
 By taking part in the challenge, you must read and agree to the challenge [terms and conditions](https://lakefs.io/terms-of-use/).
 
+Makre sure to star the [lakeFS](https://github.com/treeverse/lakeFS) project on GitHub ⭐.
+
+
 # GOOD LUCK! ❤️
