@@ -27,5 +27,6 @@ By taking part in the challenge, you must read and agree to the challenge [terms
 
 Make sure to star the [lakeFS](https://github.com/treeverse/lakeFS) project on GitHub ⭐.
 
+Want to explore lakeFS even further? you can give a try to the [lakeFS playground](https://demo.lakefs.io/)
 
 # GOOD LUCK! ❤️
